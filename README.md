@@ -4,7 +4,9 @@ Hi, I am Arjun Reji
 
 I am a B-tech Graduate
 
-I'm currently learning MEA(R)N stack development
+I'm currently learning MEA(R)N stack development 
+
+.contact me: arjunreji364@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arjun-reji-b8b623287/) 
